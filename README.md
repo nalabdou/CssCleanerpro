@@ -1,10 +1,10 @@
 # CssCleanerPro
 
-<a href="https://github.com/nalabdou/CssCleaner"><img
+<a href="https://github.com/nalabdou/CssCleanerpro"><img
   src="https://res.cloudinary.com/dhssksn5a/image/upload/v1576498897/CssCleaner.png" alt="Normalize Logo"
   width="80" height="80" align="right"></a>
 
-> Clean your css to make it same for all browsers
+> CssCleaner cleans all your html tags to look the same for all browsers 
 
 **NPM**
 
