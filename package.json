@@ -1,11 +1,7 @@
 {
-  "name": "csscleaner",
-  "version": "1.0.0",
+  "name": "csscleanerpro",
+  "version": "1.1.1",
   "description": "small css code that make all browsers see your html the same it's like magic",
-  "main": "CssCleaner.css",
-  "scripts": {
-    "test": "sass input.scss output.css"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nalabdou/CssCleaner.git"

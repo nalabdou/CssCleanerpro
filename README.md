@@ -1,4 +1,4 @@
-# CssCleaner
+# CssCleanerPro
 
 <a href="https://github.com/nalabdou/CssCleaner"><img
   src="https://res.cloudinary.com/dhssksn5a/image/upload/v1576498897/CssCleaner.png" alt="Normalize Logo"
@@ -14,12 +14,12 @@ npm install --save CssCleaner
 
 **CDN**
 
-1. <https://cdn.jsdelivr.net/gh/nalabdou/CssCleaner/CssCleaner.css>
-2. <https://cdn.jsdelivr.net/gh/nalabdou/CssCleaner/CssCleaner.min.css>
+1. <https://cdn.jsdelivr.net/gh/nalabdou/CssCleanerpro/CssCleanerpro.css>
+2. <https://cdn.jsdelivr.net/gh/nalabdou/CssCleanerpro/CssCleanerpro.min.css>
 
 **Download**
 
-<https://github.com/nalabdou/CssCleaner/archive/master.zip>
+<https://github.com/nalabdou/CssCleanerpro/archive/master.zip>
 
 ## What does it do
 
