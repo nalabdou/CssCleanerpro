@@ -1,0 +1,22 @@
+{
+  "name": "csscleaner",
+  "version": "1.0.0",
+  "description": "small css code that make all browsers see your html the same it's like magic",
+  "main": "CssCleaner.css",
+  "scripts": {
+    "test": "sass input.scss output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalabdou/CssCleaner.git"
+  },
+  "keywords": [
+    "css-reset"
+  ],
+  "author": "Nadim Al Abdou",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/nalabdou/CssCleaner/issues"
+  },
+  "homepage": "https://github.com/nalabdou/CssCleaner#readme"
+}
