@@ -9,7 +9,7 @@
 **NPM**
 
 ```sh
-npm install --save CssCleaner
+npm install --save CssCleanerpro
 ```
 
 **CDN**
