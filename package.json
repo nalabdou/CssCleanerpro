@@ -4,7 +4,7 @@
   "description": "small css code that make all browsers see your html the same it's like magic",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nalabdou/CssCleaner.git"
+    "url": "git+https://github.com/nalabdou/CssCleanerpro.git"
   },
   "keywords": [
     "css-reset"
@@ -12,7 +12,7 @@
   "author": "Nadim Al Abdou",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/nalabdou/CssCleaner/issues"
+    "url": "https://github.com/nalabdou/CssCleanerpro/issues"
   },
-  "homepage": "https://github.com/nalabdou/CssCleaner#readme"
+  "homepage": "https://github.com/nalabdou/CssCleanerpro#readme"
 }
