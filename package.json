@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/nalabdou/CssCleanerpro/issues"
   },
-  "homepage": "https://github.com/nalabdou/CssCleanerpro#readme",
-  "dependencies": {
-    "csscleanerpro": "^1.1.2"
-  }
+  "homepage": "https://github.com/nalabdou/CssCleanerpro#readme"
 }
