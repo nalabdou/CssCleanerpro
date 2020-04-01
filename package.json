@@ -7,12 +7,20 @@
     "url": "git+https://github.com/nalabdou/CssCleanerpro.git"
   },
   "keywords": [
-    "css-reset"
+    "css-reset",
+    "css"
   ],
-  "author": "Nadim Al Abdou",
+  "author": {
+    "email": "hello@nalabdou.com",
+    "name": "Al Abdou Nadim",
+    "url": "https://en.nalabdou.com"
+  },
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/nalabdou/CssCleanerpro/issues"
   },
-  "homepage": "https://github.com/nalabdou/CssCleanerpro#readme"
+  "homepage": "https://github.com/nalabdou/CssCleanerpro#readme",
+  "dependencies": {
+    "csscleanerpro": "^1.1.2"
+  }
 }

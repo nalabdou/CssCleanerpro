@@ -9,7 +9,12 @@
 **NPM**
 
 ```sh
-npm install --save CssCleanerpro
+npm install --save csscleanerpro
+```
+**Yarn**
+
+```sh
+yarn add csscleanerpro
 ```
 
 **CDN**
